@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alusheil.github.io/sitemap.html.gz
+Sitemap: https://alusheil.github.io/app/sitemap.html.gz
+Sitemap: https://alusheil.github.io/assets/sitemap.html.gz
+Sitemap: https://alusheil.github.io/css/sitemap.html.gz
+Sitemap: https://alusheil.github.io/includes/sitemap.html.gz
+Sitemap: https://alusheil.github.io/item/sitemap.html.gz
+Sitemap: https://alusheil.github.io/src/sitemap.html.gz
